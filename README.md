@@ -3,7 +3,7 @@
 # 👋 Welcome! 
 ## My name is Joaquin Fontela and I'm a Software Developer. I'm from Argentina, living in Buenos Aires and currently studying Software Engineering at Universidad de Buenos Aires, halfway in my carreer there. You can find me on [![LinkedIn][1.2]][1].
 
-# Technologies and Tools
+# 🔧 Technologies and Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Code-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=informational)
