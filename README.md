@@ -5,16 +5,16 @@
 
 # 📊 Some of my Stats...
 <a href="https://github.com/joaquinfontela/joaquinfontela">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/?username=joaquinfontela" />
-</a>
-<a href="https://github.com/joaquinfontela/joaquinfontela">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaquinfontela&hide=html&langs_count=3" />
 </a>
 <a href="https://github.com/joaquinfontela/joaquinfontela">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joaquinfontela&repo=Wolfenstein-3D" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/?username=joaquinfontela" />
 </a>
 <a href="https://github.com/joaquinfontela/joaquinfontela">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joaquinfontela&repo=FIUBA-Bot" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=joaquinfontela&repo=Wolfenstein-3D" />
+</a>
+<a href="https://github.com/joaquinfontela/joaquinfontela">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=joaquinfontela&repo=FIUBA-Bot" />
 </a>
 
 
