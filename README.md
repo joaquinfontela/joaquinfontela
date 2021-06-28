@@ -6,9 +6,9 @@
 # Technologies and Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=informational)
-![](https://img.shields.io/badge/Code-Pandas-informational?style=flat&logo=pandaslogoColor=white&color=informational)
-![](https://img.shields.io/badge/Code-Spark-informational?style=flat&logo=spark&logoColor=white&color=informational)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white&color=informational)
+![](https://img.shields.io/badge/Code-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=informational)
+![](https://img.shields.io/badge/Code-Spark-informational?style=flat&logo=apachespark&logoColor=white&color=informational)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cpp&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=informational)
