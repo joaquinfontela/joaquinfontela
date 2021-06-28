@@ -10,12 +10,12 @@
 <a href="https://github.com/joaquinfontela/joaquinfontela">
     <img align="right" src="https://github-readme-stats.vercel.app/api/?username=joaquinfontela" />
 </a>
-<a href="https://github.com/joaquinfontela/joaquinfontela">
+<div href="https://github.com/joaquinfontela/joaquinfontela">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=joaquinfontela&repo=Wolfenstein-3D" />
-</a>
-<a href="https://github.com/joaquinfontela/joaquinfontela">
+</div>
+<div href="https://github.com/joaquinfontela/joaquinfontela">
     <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=joaquinfontela&repo=FIUBA-Bot" />
-</a>
+</div>
 
 
 
