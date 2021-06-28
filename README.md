@@ -5,4 +5,4 @@
 
 # 📊 Some of my Stats...
 <img align="left" src="https://github-readme-stats.vercel.app/api/?username=joaquinfontela" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaquinfontela" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaquinfontela&hide=html" />
