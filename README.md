@@ -4,8 +4,18 @@
 ## My name is Joaquin Fontela and I'm a Software Developer. I'm from Argentina, living in Buenos Aires and currently studying Software Engineering at Universidad de Buenos Aires, halfway in my carreer there. You can find me on [![LinkedIn][1.2]][1].
 
 # 📊 Some of my Stats...
-<img align="right" src="https://github-readme-stats.vercel.app/api/?username=joaquinfontela" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaquinfontela&hide=html&langs_count=3" />
+<a href="https://github.com/joaquinfontela/joaquinfontela">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/?username=joaquinfontela" />
+</a>
+<a href="https://github.com/joaquinfontela/joaquinfontela">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaquinfontela&hide=html&langs_count=3" />
+</a>
+<a href="https://github.com/joaquinfontela/joaquinfontela">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joaquinfontela&repo=Wolfenstein-3D" />
+</a>
+<a href="https://github.com/joaquinfontela/joaquinfontela">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joaquinfontela&repo=FIUBA-Bot" />
+</a>
 
 
 
