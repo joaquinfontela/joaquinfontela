@@ -5,6 +5,8 @@
 
 # Technologies and Tools
 ![](https://img.shields.io/badge/OS-Linux-2bbc8a)
+![](https://img.shields.io/badge/Code-Python-2bbc8a)
+
 
 
 # 📊 GitHub Stats
