@@ -35,4 +35,4 @@
 
 
 <!-- links to social media accounts -->
-[1]: https://www.linkedin.com/in/heinz-martin/
+[1]: https://www.linkedin.com/in/joaquinfontela/
