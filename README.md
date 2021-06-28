@@ -35,4 +35,4 @@
 
 
 <!-- links to social media accounts -->
-[1]: https://www.linkedin.com/in/joaquinfontela/
+[1]: https://www.linkedin.com/in/joaqu%C3%ADnfontela/
