@@ -21,7 +21,7 @@
 
 # 📊 GitHub Stats
 <a href="https://github.com/joaquinfontela/joaquinfontela">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaquinfontela&hide=html&langs_count=3" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaquinfontela&hide=html&langs_count=4" />
 </a>
 <a href="https://github.com/joaquinfontela/joaquinfontela">
     <img align="right" src="https://github-readme-stats.vercel.app/api/?username=joaquinfontela" />
